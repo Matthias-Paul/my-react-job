@@ -11,13 +11,14 @@
     padding-bottom: 2px;
     padding-top: 15px;
     margin-top: -68px;
+    font-weight: bold;
 }
 .home{
     padding: 11px;
-    font-size: 18px;
+    font-size: 15px;
     color:white;
     cursor: pointer;
-    width: 10%;
+    width: 8%;
     text-align: center;
     margin-right: 8px;
     background-color: darkblue;
@@ -27,7 +28,7 @@
 
 .job{
     padding: 11px;
-    font-size: 18px;
+    font-size: 15px;
     color:white;
     cursor: pointer;
     width: 8%;
@@ -39,10 +40,10 @@
 
 .addJob{
     padding: 11px;
-    font-size: 18px;
+    font-size: 15px;
     color:white;
     cursor: pointer;
-    width: 17%;
+    width: 12%;
     text-align: center;
     margin-right: 20px;
     border-radius: 8px;
@@ -50,10 +51,10 @@
 }
 .about{
     padding: 11px;
-    font-size: 18px;
+    font-size: 15px;
     color:white;
     cursor: pointer;
-    width: 15%;
+    width: 14%;
     text-align: center;
     margin-right: 20px;
     border-radius: 8px;

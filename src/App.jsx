@@ -22,11 +22,11 @@ export default function App() {
     headers:{
       "Content-Type":"application/json"
     },
-    body: JSON.Stringify(newJob)
+    body: JSON.stringify(newJob)
   })
 
 
-return;
+return res;
 
   };
 

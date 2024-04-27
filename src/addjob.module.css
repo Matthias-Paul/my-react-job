@@ -57,7 +57,7 @@
     text-align: center;
     padding: 6px;
     border:none;
-    background-color: blue;
+    background-image:linear-gradient(to right,orange, blue,lightgray);
     color: white;
     font-size:18px;
     font-weight: bold;

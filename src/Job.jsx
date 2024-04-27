@@ -36,7 +36,7 @@ fetchData()
       <div >
        {loading ? (<div className={styles.load}></div>):(
 <>
-<div className={styles.browse}>Browse Job</div>   
+<div className={styles.bro}>Browse Job</div>   
 {job.map((jo)=>
   <div  className={styles.work}  key={jo.id}>
     <div className={styles.type}>{jo.type}</div>

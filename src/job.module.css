@@ -1,8 +1,8 @@
 .search{
     margin-top:27px;
     position:fixed;
-    margin-left: 24%;
-    width:50%;
+    margin-left: 11%;
+    width:75%;
     padding:10px;
     outline: none;
     border:none;
@@ -37,15 +37,25 @@
     font-size: 30px;
     font-weight: bold;
     color: blue;
-    padding-top: 33px;
+    padding-top: 40px;
     text-align:center;
     margin-top:40px
+    
+}
+.bro{
+    
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    padding-bottom: 15px;
+    text-align:center;
+ 
     
 }
 .work{
     background-color: white;
     padding: 15px;
-    width:320px;
+    width:310px;
     text-align: left;
     border-radius: 8px;
     box-shadow: 0px 3px 6px rgb(0, 0, 0, 0.4);

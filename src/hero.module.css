@@ -5,15 +5,18 @@
     align-items: center;
     background-color: blue;
     margin-top: 61px;
+    text-align: center;
     color:white;
 }
 .head{
    font-size:35px;
    font-weight: bold;
    padding-top: 25px;
+   text-align: center;
 }
 .body{
     font-size: 20px;
     margin-top: -20px;
     padding-bottom: 50px;
+    text-align: center;
 }
