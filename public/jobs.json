@@ -1,0 +1,354 @@
+{
+    "jobs":[
+    {
+      "id": 1,
+      "type": "Full-time",
+      "title": "Software Engineer",
+      "description": "We are seeking a skilled software engineer to join our dynamic team. Responsibilities include designing, developing, and testing software solutions.",
+      "location": "San Francisco, CA",
+      "salary": "$80,000 - $120,000 per year",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "Tech Innovations Inc. is a leading software development company specializing in cutting-edge solutions.",
+        "contactEmail": "info@techinnovations.com",
+        "contactPhone": "+1 (555) 123-4567"
+      }
+    },
+    {
+      "id": 2,
+      "type": "Part-time",
+      "title": "Graphic Designer",
+      "description": "We're looking for a creative graphic designer to produce engaging designs for various platforms. Must have experience with Adobe Creative Suite.",
+      "location": "New York, NY",
+      "salary": "$25 - $35 per hour",
+      "company": {
+        "name": "DesignWorks Studio",
+        "description": "DesignWorks Studio is a boutique design agency specializing in graphic design and branding.",
+        "contactEmail": "hr@designworks.com",
+        "contactPhone": "+1 (555) 987-6543"
+      }
+    },
+    {
+      "id": 3,
+      "type": "Remote",
+      "title": "Marketing Specialist",
+      "description": "Seeking a marketing specialist to develop and implement marketing strategies. Remote position with occasional travel.",
+      "location": "Remote",
+      "salary": "$60,000 - $80,000 per year",
+      "company": {
+        "name": "Digital Marketing Experts LLC",
+        "description": "Digital Marketing Experts LLC is a leading digital marketing agency specializing in innovative strategies and campaigns.",
+        "contactEmail": "careers@dme.com",
+        "contactPhone": "+1 (555) 789-0123"
+      }
+    },
+    {
+      "id": 4,
+      "type": "Full-time",
+      "title": "Data Analyst",
+      "description": "We are looking for a skilled data analyst to interpret complex data and turn it into actionable insights for our organization.",
+      "location": "Seattle, WA",
+      "salary": "$70,000 - $100,000 per year",
+      "company": {
+        "name": "Data Insights Co.",
+        "description": "Data Insights Co. specializes in data analytics solutions for businesses across various industries.",
+        "contactEmail": "careers@datainsights.com",
+        "contactPhone": "+1 (555) 345-6789"
+      }
+    },
+    {
+      "id": 5,
+      "type": "Contract",
+      "title": "UX/UI Designer",
+      "description": "We're seeking a talented UX/UI designer to create engaging user experiences for our web and mobile platforms on a contract basis.",
+      "location": "Los Angeles, CA",
+      "salary": "Negotiable",
+      "company": {
+        "name": "Creative Solutions Agency",
+        "description": "Creative Solutions Agency is a design and development studio specializing in innovative digital experiences.",
+        "contactEmail": "jobs@creativesolutions.com",
+        "contactPhone": "+1 (555) 234-5678"
+      }
+    },
+    {
+      "id": 6,
+      "type": "Full-time",
+      "title": "Product Manager",
+      "description": "We are looking for an experienced product manager to lead the development and launch of new products. Must have strong leadership and communication skills.",
+      "location": "Boston, MA",
+      "salary": "$90,000 - $130,000 per year",
+      "company": {
+        "name": "InnovateTech Solutions",
+        "description": "InnovateTech Solutions is a technology company focused on developing innovative solutions for businesses worldwide.",
+        "contactEmail": "careers@innovatetech.com",
+        "contactPhone": "+1 (555) 456-7890"
+      }
+    },
+    {
+      "id": 7,
+      "type": "Internship",
+      "title": "Marketing Intern",
+      "description": "We're seeking a motivated marketing intern to assist with various marketing activities, including social media management, content creation, and market research.",
+      "location": "Chicago, IL",
+      "salary": "Unpaid",
+      "company": {
+        "name": "Growth Marketing Agency",
+        "description": "Growth Marketing Agency specializes in helping startups and small businesses accelerate their growth through innovative marketing strategies.",
+        "contactEmail": "internships@growthagency.com",
+        "contactPhone": "+1 (555) 678-9012"
+      }
+    },
+    {
+      "id": 8,
+      "type": "Remote",
+      "title": "Content Writer",
+      "description": "We are looking for a talented content writer to produce engaging and informative content for our blog, website, and marketing materials. Remote position.",
+      "location": "Remote",
+      "salary": "$40,000 - $60,000 per year",
+      "company": {
+        "name": "Content Creators Inc.",
+        "description": "Content Creators Inc. is a content marketing agency dedicated to helping businesses reach their audience through compelling content.",
+        "contactEmail": "jobs@contentcreators.com",
+        "contactPhone": "+1 (555) 890-1234"
+      }
+    },
+    {
+      "id": 9,
+      "type": "Freelance",
+      "title": "Digital Marketing Consultant",
+      "description": "We're seeking a freelance digital marketing consultant to provide strategic guidance and implement effective marketing campaigns for our clients.",
+      "location": "Various locations",
+      "salary": "Hourly rate, negotiable",
+      "company": {
+        "name": "Marketing Mavericks LLC",
+        "description": "Marketing Mavericks LLC offers expert marketing consulting services to businesses of all sizes.",
+        "contactEmail": "consultants@marketingmavericks.com",
+        "contactPhone": "+1 (555) 123-4567"
+      }
+    },
+    {
+      "id": 10,
+      "type": "Full-time",
+      "title": "Frontend Developer",
+      "description": "We're seeking a frontend developer with expertise in HTML, CSS, and JavaScript to build user-friendly interfaces for our web applications.",
+      "location": "Austin, TX",
+      "salary": "$70,000 - $100,000 per year",
+      "company": {
+        "name": "Web Solutions Inc.",
+        "description": "Web Solutions Inc. specializes in creating custom web solutions for businesses of all sizes.",
+        "contactEmail": "careers@websolutions.com",
+        "contactPhone": "+1 (555) 234-5678"
+      }
+    },
+    {
+      "id": 11,
+      "type": "Remote",
+      "title": "Data Scientist",
+      "description": "We are looking for a data scientist with strong analytical skills to analyze large datasets and provide insights to drive business decisions. Remote position.",
+      "location": "Remote",
+      "salary": "$90,000 - $120,000 per year",
+      "company": {
+        "name": "Data Insights Co.",
+        "description": "Data Insights Co. specializes in data analytics solutions for businesses across various industries.",
+        "contactEmail": "careers@datainsights.com",
+        "contactPhone": "+1 (555) 345-6789"
+      }
+    },
+    {
+      "id": 12,
+      "type": "Contract",
+      "title": "Mobile App Developer",
+      "description": "We're seeking a skilled mobile app developer to design and develop mobile applications for iOS and Android platforms on a contract basis.",
+      "location": "San Diego, CA",
+      "salary": "Negotiable",
+      "company": {
+        "name": "App Innovations LLC",
+        "description": "App Innovations LLC specializes in developing innovative mobile applications for various industries.",
+        "contactEmail": "jobs@appinnovations.com",
+        "contactPhone": "+1 (555) 789-0123"
+      }
+    },
+    {
+      "id": 13,
+      "type": "Full-time",
+      "title": "HR Manager",
+      "description": "We are seeking an experienced HR manager to oversee all aspects of human resources, including recruitment, training, and employee relations.",
+      "location": "Miami, FL",
+      "salary": "$80,000 - $110,000 per year",
+      "company": {
+        "name": "HR Solutions Corp.",
+        "description": "HR Solutions Corp. provides comprehensive HR solutions to businesses, including recruitment, training, and consulting services.",
+        "contactEmail": "careers@hrsolutions.com",
+        "contactPhone": "+1 (555) 901-2345"
+      }
+    },
+    {
+      "id": 14,
+      "type": "Part-time",
+      "title": "Social Media Coordinator",
+      "description": "We're looking for a part-time social media coordinator to manage our social media channels, create content, and engage with our audience.",
+      "location": "Denver, CO",
+      "salary": "$20 - $25 per hour",
+      "company": {
+        "name": "Social Buzz Inc.",
+        "description": "Social Buzz Inc. specializes in social media marketing solutions for businesses to increase their online presence and engagement.",
+        "contactEmail": "careers@socialbuzz.com",
+        "contactPhone": "+1 (555) 345-6789"
+      }
+    },
+    {
+      "id": 15,
+      "type": "Internship",
+      "title": "Software Engineering Intern",
+      "description": "We're seeking a software engineering intern to assist with the development and testing of software solutions under the guidance of our experienced team.",
+      "location": "Seattle, WA",
+      "salary": "Paid internship",
+      "company": {
+        "name": "Tech Innovations Inc.",
+        "description": "Tech Innovations Inc. is a leading software development company specializing in cutting-edge solutions.",
+        "contactEmail": "info@techinnovations.com",
+        "contactPhone": "+1 (555) 123-4567"
+      }
+    },
+    {
+      "id": 16,
+      "type": "Remote",
+      "title": "Customer Support Specialist",
+      "description": "We are seeking a customer support specialist to assist customers with inquiries, troubleshoot issues, and provide excellent service. Remote position.",
+      "location": "Remote",
+      "salary": "$45,000 - $55,000 per year",
+      "company": {
+        "name": "Support Solutions LLC",
+        "description": "Support Solutions LLC provides customer support solutions to businesses, ensuring high-quality service and customer satisfaction.",
+        "contactEmail": "careers@supportsolutions.com",
+        "contactPhone": "+1 (555) 678-9012"
+      }
+    },
+    {
+      "id": 17,
+      "type": "Freelance",
+      "title": "Graphic Design Consultant",
+      "description": "We're seeking a freelance graphic design consultant to work on various design projects, including branding, marketing materials, and web design.",
+      "location": "Various locations",
+      "salary": "Project-based, negotiable",
+      "company": {
+        "name": "Design Studio Collective",
+        "description": "Design Studio Collective is a creative agency specializing in graphic design, branding, and web development.",
+        "contactEmail": "consultants@designstudio.com",
+        "contactPhone": "+1 (555) 890-1234"
+      }
+    },
+    {
+      "id": 18,
+      "type": "Full-time",
+      "title": "Financial Analyst",
+      "description": "We're seeking a financial analyst to analyze financial data, prepare reports, and provide insights to support decision-making processes.",
+      "location": "Chicago, IL",
+      "salary": "$60,000 - $80,000 per year",
+      "company": {
+        "name": "Finance Solutions Group",
+        "description": "Finance Solutions Group provides financial advisory and consulting services to businesses across various industries.",
+        "contactEmail": "careers@financesolutions.com",
+        "contactPhone": "+1 (555) 234-5678"
+      }
+    },
+    {
+      "id": 19,
+      "type": "Remote",
+      "title": "Content Marketing Manager",
+      "description": "We are looking for a content marketing manager to develop and implement content strategies that drive engagement and brand awareness. Remote position.",
+      "location": "Remote",
+      "salary": "$70,000 - $90,000 per year",
+      "company": {
+        "name": "Digital Marketing Agency X",
+        "description": "Digital Marketing Agency X specializes in providing comprehensive digital marketing solutions to businesses worldwide.",
+        "contactEmail": "careers@digitalmarketingagencyx.com",
+        "contactPhone": "+1 (555) 345-6789"
+      }
+    },
+    {
+      "id": 20,
+      "type": "Full-time",
+      "title": "Sales Manager",
+      "description": "We are seeking an experienced sales manager to lead our sales team, develop strategies, and drive revenue growth.",
+      "location": "San Francisco, CA",
+      "salary": "$90,000 - $120,000 per year",
+      "company": {
+        "name": "Sales Solutions Inc.",
+        "description": "Sales Solutions Inc. provides sales consulting and training services to businesses looking to improve their sales performance.",
+        "contactEmail": "careers@salessolutions.com",
+        "contactPhone": "+1 (555) 456-7890"
+      }
+    },
+    {
+      "id": 21,
+      "type": "Contract",
+      "title": "UI/UX Designer",
+      "description": "We're seeking a UI/UX designer to create intuitive and visually appealing user interfaces for our web and mobile applications on a contract basis.",
+      "location": "New York, NY",
+      "salary": "Negotiable",
+      "company": {
+        "name": "Design Innovations Agency",
+        "description": "Design Innovations Agency specializes in creating innovative and user-centric design solutions for businesses.",
+        "contactEmail": "jobs@designinnovations.com",
+        "contactPhone": "+1 (555) 567-8901"
+      }
+    },
+    {
+      "id": 22,
+      "type": "Full-time",
+      "title": "Operations Manager",
+      "description": "We're seeking an operations manager to oversee daily operations, manage resources, and optimize processes to ensure efficiency and productivity.",
+      "location": "Houston, TX",
+      "salary": "$70,000 - $90,000 per year",
+      "company": {
+        "name": "Operational Excellence Inc.",
+        "description": "Operational Excellence Inc. specializes in helping businesses streamline their operations and achieve optimal efficiency.",
+        "contactEmail": "careers@operationalexcellence.com",
+        "contactPhone": "+1 (555) 678-9012"
+      }
+    },
+    {
+      "id": 23,
+      "type": "Remote",
+      "title": "Content Strategist",
+      "description": "We are looking for a content strategist to develop content plans, conduct research, and create compelling content that aligns with our brand and goals. Remote position.",
+      "location": "Remote",
+      "salary": "$60,000 - $80,000 per year",
+      "company": {
+        "name": "Content Coherence Solutions",
+        "description": "Content Coherence Solutions specializes in helping businesses create cohesive and effective content strategies.",
+        "contactEmail": "careers@contentcoherence.com",
+        "contactPhone": "+1 (555) 123-4567"
+      }
+    },
+    {
+      "id": 24,
+      "type": "Part-time",
+      "title": "Administrative Assistant",
+      "description": "We're seeking a part-time administrative assistant to provide support with various administrative tasks, including scheduling, correspondence, and record-keeping.",
+      "location": "Los Angeles, CA",
+      "salary": "$15 - $20 per hour",
+      "company": {
+        "name": "Admin Solutions LLC",
+        "description": "Admin Solutions LLC offers administrative support services to businesses, helping them streamline their operations.",
+        "contactEmail": "careers@adminsolutions.com",
+        "contactPhone": "+1 (555) 234-5678"
+      }
+    },
+    {
+      "id": 25,
+      "type": "Full-time",
+      "title": "Quality Assurance Analyst",
+      "description": "We're seeking a quality assurance analyst to ensure the quality and reliability of our software products through testing and analysis.",
+      "location": "Austin, TX",
+      "salary": "$60,000 - $80,000 per year",
+      "company": {
+        "name": "QA Solutions Inc.",
+        "description": "QA Solutions Inc. specializes in providing quality assurance and testing services to software development companies.",
+        "contactEmail": "careers@qasolutions.com",
+        "contactPhone": "+1 (555) 345-6789"
+      }
+    }
+  ]
+}

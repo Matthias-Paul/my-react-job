@@ -1,0 +1,157 @@
+.search{
+    margin-top:27px;
+    position:fixed;
+    margin-left: 24%;
+    width:50%;
+    padding:10px;
+    outline: none;
+    border:none;
+    border-bottom: 1px solid lightgray;
+    box-shadow: 0px 2px 4px rgb(0, 0, 0, 0.4);
+    border-radius: 6px;
+    font-size: 15px;
+   
+
+   
+}
+
+
+
+
+
+
+.job{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    margin-top: 15px;
+    width: 100%;
+    background-color: rgb(250, 224, 224) ;
+    margin-bottom: 20px;
+    padding-top:20px;
+}
+.browse{
+    
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    padding-top: 33px;
+    text-align:center;
+    margin-top:40px
+    
+}
+.work{
+    background-color: white;
+    padding: 15px;
+    width:320px;
+    text-align: left;
+    border-radius: 8px;
+    box-shadow: 0px 3px 6px rgb(0, 0, 0, 0.4);
+    margin-bottom: 40px;
+}
+.type{
+    font-size: 15px;
+    color: red;
+}
+.title{
+    font-size: 23px;
+    font-weight: bold;
+}
+.descript{
+    font-size: 15px;
+    margin-top: 5px;
+}
+.location{
+    display:inline-block;
+    font-weight: bold;
+    margin-top: 5px;
+    color:red;
+}
+.salary{
+    color: blue;
+    margin-top: 5px;
+}
+.line{
+    color:blue;
+    opacity: 0.4;
+}
+.btn{
+    float: right;
+    padding: 8px;
+    border-radius: 8px;
+    border:none;
+    color:white;
+   
+    cursor:pointer;
+    text-decoration: none;
+    background:linear-gradient(to right, rgb(138, 5, 150, 0.4),
+    rgba(138,5,150, 1))
+}
+.btn:active{
+    opacity:0.8;
+}
+
+@keyframes spin {
+    0%{transform:rotate(0deg)}
+    100%{transform:rotate(360deg);}
+}
+.load{
+    
+    border:2px solid rgba(148, 135, 135, 0.8);
+    border-top:4px solid gray;
+    border-radius:50%;
+    width:50px;
+    height:50px;
+    animation:spin 1s linear infinite
+}
+.view{
+    padding:13px;
+    width: 270px;
+    margin-bottom: 20px;
+    border:none;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    text-align:center;
+    
+
+}
+.view:active{
+    opacity:0.8;
+}
+.navbar{
+    display:flex;
+    color:green;
+    background-color:blue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

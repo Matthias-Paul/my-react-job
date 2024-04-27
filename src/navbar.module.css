@@ -1,0 +1,78 @@
+
+.navbar{
+    display:flex;
+    position: fixed;
+    justify-content: center;
+    background-color: blue; 
+    width:100%;
+    row-gap: 10px;
+    height: 55px;
+    align-items: center;
+    padding-bottom: 2px;
+    padding-top: 15px;
+    margin-top: -68px;
+}
+.home{
+    padding: 11px;
+    font-size: 18px;
+    color:white;
+    cursor: pointer;
+    width: 10%;
+    text-align: center;
+    margin-right: 8px;
+    background-color: darkblue;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.job{
+    padding: 11px;
+    font-size: 18px;
+    color:white;
+    cursor: pointer;
+    width: 8%;
+    text-align: center;
+    margin-right: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.addJob{
+    padding: 11px;
+    font-size: 18px;
+    color:white;
+    cursor: pointer;
+    width: 17%;
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.about{
+    padding: 11px;
+    font-size: 18px;
+    color:white;
+    cursor: pointer;
+    width: 15%;
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.line{
+    position: fixed;
+    color:white;
+    width:100%;
+    margin-top: 4px;
+    color:rgb(241, 227, 227)
+    
+}
+
+
+
+
+
+
+
+
+
