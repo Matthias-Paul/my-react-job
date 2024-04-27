@@ -14,11 +14,13 @@
     font-weight: bold;
 }
 .home{
-    padding: 11px;
+    
     font-size: 15px;
     color:white;
     cursor: pointer;
-    width: 8%;
+    width: 13%;
+    padding-top:10px;
+    height:30px;
     text-align: center;
     margin-right: 8px;
     background-color: darkblue;
@@ -27,11 +29,14 @@
 }
 
 .job{
-    padding: 11px;
+   
     font-size: 15px;
     color:white;
     cursor: pointer;
-    width: 8%;
+ 
+    width: 13%;
+    padding-top:10px;
+    height:30px;
     text-align: center;
     margin-right: 8px;
     border-radius: 8px;
@@ -39,24 +44,29 @@
 }
 
 .addJob{
-    padding: 11px;
+    
     font-size: 15px;
     color:white;
     cursor: pointer;
-    width: 12%;
+   
+    width: 15%;
+    padding-top:10px;
+    height:30px;
     text-align: center;
-    margin-right: 20px;
+    margin-right: 12px;
     border-radius: 8px;
     text-decoration: none;
 }
 .about{
-    padding: 11px;
+    
     font-size: 15px;
     color:white;
     cursor: pointer;
-    width: 14%;
+    
+    width: 15%;
+    padding-top:10px;
+    height:30px;
     text-align: center;
-    margin-right: 20px;
     border-radius: 8px;
     text-decoration: none;
 }

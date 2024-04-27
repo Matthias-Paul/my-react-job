@@ -1,7 +1,7 @@
 {
-    "jobs":[
+  "jobs": [
     {
-      "id": 1,
+      "id": "1",
       "type": "Full-time",
       "title": "Software Engineer",
       "description": "We are seeking a skilled software engineer to join our dynamic team. Responsibilities include designing, developing, and testing software solutions.",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "2",
       "type": "Part-time",
       "title": "Graphic Designer",
       "description": "We're looking for a creative graphic designer to produce engaging designs for various platforms. Must have experience with Adobe Creative Suite.",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "type": "Remote",
       "title": "Marketing Specialist",
       "description": "Seeking a marketing specialist to develop and implement marketing strategies. Remote position with occasional travel.",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "type": "Full-time",
       "title": "Data Analyst",
       "description": "We are looking for a skilled data analyst to interpret complex data and turn it into actionable insights for our organization.",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "5",
       "type": "Contract",
       "title": "UX/UI Designer",
       "description": "We're seeking a talented UX/UI designer to create engaging user experiences for our web and mobile platforms on a contract basis.",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "type": "Full-time",
       "title": "Product Manager",
       "description": "We are looking for an experienced product manager to lead the development and launch of new products. Must have strong leadership and communication skills.",
@@ -85,7 +85,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "7",
       "type": "Internship",
       "title": "Marketing Intern",
       "description": "We're seeking a motivated marketing intern to assist with various marketing activities, including social media management, content creation, and market research.",
@@ -99,7 +99,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "8",
       "type": "Remote",
       "title": "Content Writer",
       "description": "We are looking for a talented content writer to produce engaging and informative content for our blog, website, and marketing materials. Remote position.",
@@ -113,7 +113,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "9",
       "type": "Freelance",
       "title": "Digital Marketing Consultant",
       "description": "We're seeking a freelance digital marketing consultant to provide strategic guidance and implement effective marketing campaigns for our clients.",
@@ -127,7 +127,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "10",
       "type": "Full-time",
       "title": "Frontend Developer",
       "description": "We're seeking a frontend developer with expertise in HTML, CSS, and JavaScript to build user-friendly interfaces for our web applications.",
@@ -141,7 +141,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "11",
       "type": "Remote",
       "title": "Data Scientist",
       "description": "We are looking for a data scientist with strong analytical skills to analyze large datasets and provide insights to drive business decisions. Remote position.",
@@ -155,7 +155,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "12",
       "type": "Contract",
       "title": "Mobile App Developer",
       "description": "We're seeking a skilled mobile app developer to design and develop mobile applications for iOS and Android platforms on a contract basis.",
@@ -169,7 +169,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "13",
       "type": "Full-time",
       "title": "HR Manager",
       "description": "We are seeking an experienced HR manager to oversee all aspects of human resources, including recruitment, training, and employee relations.",
@@ -183,7 +183,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "14",
       "type": "Part-time",
       "title": "Social Media Coordinator",
       "description": "We're looking for a part-time social media coordinator to manage our social media channels, create content, and engage with our audience.",
@@ -197,7 +197,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "15",
       "type": "Internship",
       "title": "Software Engineering Intern",
       "description": "We're seeking a software engineering intern to assist with the development and testing of software solutions under the guidance of our experienced team.",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "16",
       "type": "Remote",
       "title": "Customer Support Specialist",
       "description": "We are seeking a customer support specialist to assist customers with inquiries, troubleshoot issues, and provide excellent service. Remote position.",
@@ -225,7 +225,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "17",
       "type": "Freelance",
       "title": "Graphic Design Consultant",
       "description": "We're seeking a freelance graphic design consultant to work on various design projects, including branding, marketing materials, and web design.",
@@ -239,7 +239,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "18",
       "type": "Full-time",
       "title": "Financial Analyst",
       "description": "We're seeking a financial analyst to analyze financial data, prepare reports, and provide insights to support decision-making processes.",
@@ -253,7 +253,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "19",
       "type": "Remote",
       "title": "Content Marketing Manager",
       "description": "We are looking for a content marketing manager to develop and implement content strategies that drive engagement and brand awareness. Remote position.",
@@ -267,7 +267,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "20",
       "type": "Full-time",
       "title": "Sales Manager",
       "description": "We are seeking an experienced sales manager to lead our sales team, develop strategies, and drive revenue growth.",
@@ -281,7 +281,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "21",
       "type": "Contract",
       "title": "UI/UX Designer",
       "description": "We're seeking a UI/UX designer to create intuitive and visually appealing user interfaces for our web and mobile applications on a contract basis.",
@@ -295,7 +295,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "22",
       "type": "Full-time",
       "title": "Operations Manager",
       "description": "We're seeking an operations manager to oversee daily operations, manage resources, and optimize processes to ensure efficiency and productivity.",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "23",
       "type": "Remote",
       "title": "Content Strategist",
       "description": "We are looking for a content strategist to develop content plans, conduct research, and create compelling content that aligns with our brand and goals. Remote position.",
@@ -323,7 +323,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "24",
       "type": "Part-time",
       "title": "Administrative Assistant",
       "description": "We're seeking a part-time administrative assistant to provide support with various administrative tasks, including scheduling, correspondence, and record-keeping.",
@@ -337,7 +337,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "25",
       "type": "Full-time",
       "title": "Quality Assurance Analyst",
       "description": "We're seeking a quality assurance analyst to ensure the quality and reliability of our software products through testing and analysis.",
@@ -348,6 +348,20 @@
         "description": "QA Solutions Inc. specializes in providing quality assurance and testing services to software development companies.",
         "contactEmail": "careers@qasolutions.com",
         "contactPhone": "+1 (555) 345-6789"
+      }
+    },
+    {
+      "id": "54c3",
+      "type": "Full-Time",
+      "title": "wweewe",
+      "location": "",
+      "description": "wee",
+      "salary": "",
+      "company": {
+        "name": "",
+        "description": "",
+        "contactEmail": "",
+        "contactPhone": ""
       }
     }
   ]
