@@ -2,7 +2,7 @@
 .navbar{
     display:flex;
     position: fixed;
-    justify-content: center;
+    justify-content: right;
     background-color: blue; 
     width:100%;
     font-weight: bold;
