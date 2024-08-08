@@ -108,6 +108,7 @@ export default function AddJob({ addJobSubmit }) {
           <div className={styles.head}>Job Name</div>
           <input
            className={styles.in} 
+           required
            type="text"
            value={title} 
            onChange={handleTitle} 
@@ -117,6 +118,7 @@ export default function AddJob({ addJobSubmit }) {
             placeholder="Add any job duties, expectation, requirement etc"
             className={styles.in}
             rows="4"
+            required
             type="text"
             value={description}
             onChange={handleDescription}  
@@ -126,6 +128,7 @@ export default function AddJob({ addJobSubmit }) {
           className={styles.in} 
           placeholder="$90 - $120 per year" 
           value={salary} 
+          required
           onChange={handleSalary} 
           />
           <div className={styles.head}>Location</div>
@@ -141,6 +144,7 @@ export default function AddJob({ addJobSubmit }) {
            className={styles.in}
             type="text"
             value={companyName}
+            required
             onChange={handleCompanyName}  
             />
           <div className={styles.head}>Company Description</div>
@@ -149,6 +153,7 @@ export default function AddJob({ addJobSubmit }) {
             className={styles.in}
             rows="4"
             type="text"
+            required
             value={companyDescription} 
             onChange={handleCompanyDescription} 
           />
@@ -158,12 +163,14 @@ export default function AddJob({ addJobSubmit }) {
             className={styles.in}
             type="text"
             value={contactEmail} 
+            required
             onChange={handleContactEmail} 
           />
           <div className={styles.head}>Contact Phone</div>
           <input
             placeholder="Phone number for applicants eg +234"
             className={styles.in}
+            required
             type="tel"
             value={contactPhone} 
             onChange={handleContactPhone} 

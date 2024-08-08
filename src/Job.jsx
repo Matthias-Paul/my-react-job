@@ -30,13 +30,14 @@ fetchData()
 
   return (
     <>
-    <div >
-    <div className={styles.job}>    
+ <div className={styles.bro}>Browse Job</div> 
+    <div className={styles.jobs}>    
         
-      <div >
+    
        {loading ? (<div className={styles.load}></div>):(
 <>
-<div className={styles.bro}>Browse Job</div>   
+  
+
 {job.map((jo)=>
   <div  className={styles.work}  key={jo.id}>
     <div className={styles.type}>{jo.type}</div>
@@ -47,14 +48,14 @@ fetchData()
     <div className={styles.location}>{jo.location}</div>
     
     <Link to={`/jobInfo/${jo.id}`} className={styles.btn}>Read More</Link>
- 
+   
   </div>
 
 
 
 
 
-  
+
   )}
 </>
        )}
@@ -64,10 +65,9 @@ fetchData()
    
 
         </div>
+        
         <Link to="/jobs" className={styles.view}>View All Jobs</Link>
-     </div>
      
-     </div>
     </>
   )
 }

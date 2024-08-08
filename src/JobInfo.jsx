@@ -21,8 +21,9 @@ export default function JobPage() {
       <div className={styles.back}>
         <Link to="/jobs" className={styles.arrow}>
           &#8592;
+          <span className={styles.list}> Back to job listing </span>
         </Link>
-        <span className={styles.list}> Back to job listing </span>
+        
       </div>
 
       <div className={styles.all}>

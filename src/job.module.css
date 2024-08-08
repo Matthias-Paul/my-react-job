@@ -1,9 +1,11 @@
+
 .search{
     margin-top:27px;
     position:fixed;
     margin-left: 11%;
     width:75%;
     padding:10px;
+  
     outline: none;
     border:none;
     border-bottom: 1px solid lightgray;
@@ -23,9 +25,8 @@
 .job{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    
     align-items: center;
-    min-height:100vh;
     margin-top: 15px;
     width: 100%;
     background-color: rgb(250, 224, 224) ;
@@ -33,13 +34,11 @@
     padding-top:20px;
 }
 .browse{
-    
     font-size: 30px;
     font-weight: bold;
     color: blue;
-    padding-top: 40px;
     text-align:center;
-    margin-top:40px
+    margin-top:70px;
     
 }
 .bro{
@@ -48,14 +47,17 @@
     font-weight: bold;
     color: blue;
     padding-bottom: 15px;
+    padding-top: 10px;
     text-align:center;
- 
+    background-color:rgb(250, 224, 224) ;
+  
     
 }
 .work{
     background-color: white;
-    padding: 15px;
+    padding: 25px;
     width:310px;
+   
     text-align: left;
     border-radius: 8px;
     box-shadow: 0px 3px 6px rgb(0, 0, 0, 0.4);
@@ -119,6 +121,12 @@
 .view{
     padding:13px;
     width: 270px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    text-align:center;
+    margin:auto;
+    margin-top:-70px;
     margin-bottom: 20px;
     border:none;
     background-color: blue;
@@ -131,37 +139,59 @@
     text-align:center;
     
 
+
+
 }
 .view:active{
     opacity:0.8;
 }
+
 .navbar{
     display:flex;
     color:green;
     background-color:blue;
     
 }
+.jobs{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+justify-content: center;
+padding-bottom:70px;
+    
+background-color: rgb(250, 224, 224) ;
+}
+@media(min-width:850px){
+    .job{
+        display:grid;
+        grid-template-columns: 340px 340px;
+        column-gap: 50px;
+        justify-content: center;
+       
+    }
+    .jobs{
+        display:grid;
+        grid-template-columns: 340px 340px;
+        column-gap: 50px;
+        justify-content: center;
+       
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    .type{
+        font-size: 17px;
+        
+    }
+    .title{
+        font-size: 24px;
+    
+    }
+    .descript{
+        font-size: 17px;
+        
+    }
+  
+    .salary{
+      font-size: 17px;  
+       
+    }
+}
