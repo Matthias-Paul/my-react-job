@@ -55,9 +55,8 @@
 }
 .work{
     background-color: white;
-    padding: 25px;
-    width:310px;
-   
+    padding: 20px;
+    width:280px;
     text-align: left;
     border-radius: 8px;
     box-shadow: 0px 3px 6px rgb(0, 0, 0, 0.4);
@@ -165,14 +164,16 @@ background-color: rgb(250, 224, 224) ;
     .job{
         display:grid;
         grid-template-columns: 340px 340px;
-        column-gap: 50px;
+        column-gap: 15px;
+       
         justify-content: center;
+        
        
     }
     .jobs{
         display:grid;
         grid-template-columns: 340px 340px;
-        column-gap: 50px;
+        column-gap: 15px;
         justify-content: center;
        
     }
